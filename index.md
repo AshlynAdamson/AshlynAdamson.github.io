@@ -1,20 +1,21 @@
-## Ashlyn Adamson
+# Ashlyn Adamson
 
 Projects that I've done during my time at BSU.
+You can use the [editor on GitHub](https://github.com/AshlynAdamson/AshlynAdamson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files
 
 ### About Me
 
  I was born and raised here in Boise and I love the outdoors, mainly fishing, photography, and taking walks on the greenbelt! I have a cat named Oliver and he loves to cuddle. I enjoy traveling, trying new foods, and spending time with friends and family.
 
-# Education
+## Education
 
 I graduated Borah High School in May of 2018. I am a junior at Boise State Univerity studying Computer Science. I am expected to graduate May of 2022. 
 
-# Experience 
+## Experience 
 
 I am currently a Software Engineer Intern at Schweitzer Engineering Laboratories. I am on our Device Configuration team and test new changes and additons to the Congfiguration software that is used for SEL Relay devices. 
 
-# Skills
+## Skills
 
 These are skills I have learned through either my schooling at BSU or from my internship. 
 - Git
@@ -23,7 +24,7 @@ These are skills I have learned through either my schooling at BSU or from my in
 - Ad-hoc testing
 - Functional Testing
 
-# Aspirations
+## Aspirations
 
 I am a motivated learner looking foward to continue sharpening my current skills as well as learning many useful development, testing, and other relavant skills in the industry.  
 ```
