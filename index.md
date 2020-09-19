@@ -1,29 +1,31 @@
-## Welcome to GitHub Pages
+## Ashlyn Adamson
 
-You can use the [editor on GitHub](https://github.com/AshlynAdamson/AshlynAdamson.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Projects that I've done during my time at BSU.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+ I was born and raised here in Boise and I love the outdoors, mainly fishing, photography, and taking walks on the greenbelt! I have a cat named Oliver and he loves to cuddle. I enjoy traveling, trying new foods, and spending time with friends and family.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Education
 
-```markdown
-Syntax highlighted code block
+I graduated Borah High School in May of 2018. I am a junior at Boise State Univerity studying Computer Science. I am expected to graduate May of 2022. 
 
-# Header 1
-## Header 2
-### Header 3
+# Experience 
 
-- Bulleted
-- List
+I am currently a Software Engineer Intern at Schweitzer Engineering Laboratories. I am on our Device Configuration team and test new changes and additons to the Congfiguration software that is used for SEL Relay devices. 
 
-1. Numbered
-2. List
+# Skills
 
-**Bold** and _Italic_ and `Code` text
+These are skills I have learned through either my schooling at BSU or from my internship. 
+- Git
+- Agile Developmet
+- Object-Oriented Programming ( mainly Java )
+- Ad-hoc testing
+- Functional Testing
 
-[Link](url) and ![Image](src)
+# Aspirations
+
+I am a motivated learner looking foward to continue sharpening my current skills as well as learning many useful development, testing, and other relavant skills in the industry.  
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
